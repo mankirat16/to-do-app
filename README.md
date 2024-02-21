@@ -25,7 +25,7 @@ To use the To-Do App, follow these steps:
 
 ## Demo
 
-![To-Do App Demo](todo-demo.gif)
+![To-Do App Demo](todo-demo.jpg)
 
 
 ## Acknowledgments
